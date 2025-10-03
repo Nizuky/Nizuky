@@ -35,10 +35,3 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=Nizuky&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Nizuky&theme=monokai&hide_border=true)
-
-##
-
-![](https://github-profile-trophy.vercel.app/?username=Nizuky&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
